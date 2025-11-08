@@ -1,47 +1,50 @@
-# ⚔️ Sávio Souza  
+<h1 align="center">⚔️ Oi, eu sou o Sávio Souza 🧠</h1>
 
-### 💻 Desenvolvedor Delphi & Analista de Sistemas  
+<p align="center">
+  <img src="https://github.com/Saviosouza-Dev/Saviosouza-Dev/blob/main/cavaleiro-pixel.png" width="200" alt="Cavaleiro do Código">
+</p>
 
-Apaixonado por tecnologia, desenvolvimento e por transformar ideias em soluções reais.  
-Atuo com foco em **Delphi**, **bancos de dados Firebird e MySQL**, além de experiência com **Python**, **JavaScript**, **HTML** e **CSS**.  
-Gosto de escrever código limpo, bem estruturado e de buscar sempre a melhor forma de resolver cada desafio.  
+<h3 align="center">🛡️ Desenvolvedor Delphi & Analista de Sistemas</h3>
 
-> ☕ “Códigos sólidos, café forte e soluções inteligentes.”  
-
----
-
-### 🧠 Tecnologias & Ferramentas  
-
-🟢 **Linguagens:**  
-Delphi • Python • JavaScript  
-
-🟣 **Front-end:**  
-HTML5 • CSS3  
-
-🟠 **Banco de Dados:**  
-Firebird • MySQL  
-
-🔵 **Outros:**  
-Git • GitHub • POO • Clean Code  
+<p align="center">
+Apaixonado por tecnologia e por transformar ideias em soluções reais. <br>
+Atuo com foco em <b>Delphi</b>, <b>Firebird</b>, <b>MySQL</b> e experiência com <b>Python</b>, <b>JavaScript</b>, <b>HTML</b> e <b>CSS</b>. <br>
+Gosto de escrever código limpo, estruturado e de buscar sempre a melhor forma de resolver cada desafio. ⚙️
+</p>
 
 ---
 
-### 🚀 Sobre mim  
-
-Sou um profissional comprometido com qualidade e melhoria contínua.  
-Tenho perfil analítico e foco em resultados, buscando sempre eficiência e boas práticas no desenvolvimento.  
-Acredito que cada linha de código é uma oportunidade de aprendizado e evolução.  
-
-> 🛡️ “O código limpo é a armadura do verdadeiro cavaleiro do desenvolvimento.”  
+### 📊 Estatísticas do GitHub
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saviosouza-Dev&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saviosouza-Dev&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
 
 ---
 
-### 📫 Onde me encontrar  
-
-[🐱 GitHub](https://github.com/Saviosouza-Dev)  
-[💼 LinkedIn](https://www.linkedin.com/in/s%C3%A1viodev/)  
-[📘 Facebook](https://www.facebook.com/saviobassmusic)  
+### 🧠 Tecnologias & Ferramentas
+<p align="center">
+  <img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebird-FF4500?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ---
 
-⭐ *“Cavaleiro do Código — em constante missão por conhecimento, qualidade e inovação.”*
+### 🤝 Vamos nos conectar?
+<p align="center">
+  <a href="https://www.linkedin.com/in/s%C3%A1viodev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/saviobassmusic" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">🧩 “Códigos sólidos, café forte e soluções inteligentes.” ☕⚔️</p>

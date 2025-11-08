@@ -1,6 +1,6 @@
 <h1 align="center">⚔️ Oi, eu sou o Sávio Souza 🧠</h1>
 
- <p align="center">
+<p align="center">
   <img src="https://i.imgur.com/8Km9tLL.gif" width="200" alt="Dev animado programando no PC">
 </p>
 

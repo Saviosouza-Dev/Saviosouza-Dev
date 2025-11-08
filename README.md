@@ -1,7 +1,7 @@
 <h1 align="center">⚔️ Oi, eu sou o Sávio Souza 🧠</h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/rfA1oTn.gif" width="400" alt="Animação de código rolando na tela">
+  <img src="https://i.imgur.com/AtQyH4L.gif" width="250" alt="Cérebro tecnológico animado">
 </p>
 
 <h3 align="center">🛡️ Desenvolvedor Delphi & Analista de Sistemas</h3>

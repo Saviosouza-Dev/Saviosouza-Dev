@@ -1,7 +1,7 @@
 <h1 align="center">⚔️ Oi, eu sou o Sávio Souza 🧠</h1>
 
-<p align="center">
-  <img src="https://github.com/Saviosouza-Dev/Saviosouza-Dev/blob/main/cavaleiro-pixel.png" width="200" alt="Cavaleiro do Código">
+ <p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.gif" width="200" alt="Dev animado programando no PC">
 </p>
 
 <h3 align="center">🛡️ Desenvolvedor Delphi & Analista de Sistemas</h3>

@@ -1,6 +1,5 @@
 <h1 align="center">⚔️ Oi, eu sou o Sávio Souza 🧠</h1>
 
-<h1 align="center">⚔️ Oi, eu sou o Sávio Souza 🧠</h1>
 
 <p align="center">
   <img src="https://i.gifer.com/7SvE.gif" width="300" alt="Programador animado escrevendo código">
